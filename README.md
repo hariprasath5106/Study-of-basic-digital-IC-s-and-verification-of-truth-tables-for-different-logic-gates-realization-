@@ -60,13 +60,17 @@ Check all the gates following the same procedure.
 Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
+# Developed by: HARI PRASATH S
+# RegisterNumber: 212222240034
 */
 Logic symbol & Truthtable
-RTL realization
+![WhatsApp Image 2023-08-26 at 08 36 50](https://github.com/hariprasath5106/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/111515488/b11de42c-9712-4654-b6d6-07e2339c420d)
+
 Output:
 RTL
+![DE EX !1](https://github.com/hariprasath5106/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/111515488/d1971eec-16ab-4211-a0c7-7d0a97a33127)
+Waveform
+![DE EX !](https://github.com/hariprasath5106/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/111515488/a4d9ad7f-96aa-4492-8789-5eb19eeaaf22)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
